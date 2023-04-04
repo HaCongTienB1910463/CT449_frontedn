@@ -1,2 +1,2 @@
-Họ tên: Thái Thị Giảu
-MSSV: B1910369
+Họ tên: Hà Công Tiền
+MSSV: B1910463
