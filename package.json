@@ -1,5 +1,5 @@
 {
-  "name": "ct449-frontend",
+  "name": "contactbook-frontend",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -8,10 +8,18 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.2.47"
+    "@fortawesome/fontawesome-free": "^6.3.0",
+    "axios": "^1.3.4",
+    "bootstrap": "^4.6.2",
+    "jquery": "^3.6.3",
+    "popper.js": "^1.16.1",
+    "vee-validate": "^4.7.4",
+    "vue": "^3.2.45",
+    "vue-router": "^4.1.6",
+    "yup": "^1.0.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.0.0",
-    "vite": "^4.1.4"
+    "vite": "^4.0.0"
   }
 }
